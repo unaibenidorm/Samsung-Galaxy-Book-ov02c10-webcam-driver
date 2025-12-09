@@ -58,8 +58,8 @@ Clone this repository and move it to the system source directory to adhere to DK
 
 ```bash
 # Clone the repo (or download the zip)
-git clone https://github.com/YOUR_USERNAME/galaxy-book3-ov02c10-fix.git
-cd galaxy-book3-ov02c10-fix
+git clone https://github.com/unaibenidorm/Samsung-Galaxy-Book-ov02c10-webcam-driver.git
+cd Samsung-Galaxy-Book-ov02c10-webcam-driver
 
 # Create a directory in /usr/src
 sudo mkdir -p /usr/src/ov02c10-patched-1.0
