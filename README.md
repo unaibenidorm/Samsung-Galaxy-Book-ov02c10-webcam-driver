@@ -1,4 +1,4 @@
-# Samsung Galaxy Book3 Ultra Webcam Driver Fix (OV02C10)
+# Samsung Galaxy Book 3 Webcam Driver Fix (OV02C10)
 
 This repository provides a patched **DKMS kernel module** for the **OmniVision OV02C10** image sensor. This sensor is used in the **Samsung Galaxy Book3 Ultra** (and potentially other Galaxy Book models) connected via the Intel IPU6 CSI bridge.
 
